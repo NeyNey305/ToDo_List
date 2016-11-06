@@ -1,0 +1,45 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+* {
+  font-family: Coiny, cursive;
+}
+
+h1 {
+  font-family: Coiny, cursive;
+  color: yellow;
+  text-align: center;
+}
+
+th {
+  color: lightblue;
+  font-size: 1.5em;
+}
+
+td {
+  color: white;
+}
+
+td:hover {
+  color: black;
+}
+
+
+label {
+  color:lightblue;
+  font-size: 1.5em;
+}
+
+#new_task_item {
+  text-align: center;
+}
+
+#showformat {
+  color: white;
+  font-size: 2.5em;
+}
+
+#showdes {
+  color: lightblue;
+}
